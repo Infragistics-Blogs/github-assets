@@ -1,4 +1,3 @@
-github-assets
-=============
+# GitHub Assets
 
-Assets for GitHub repositories.
+This repository includes assets you can use for other GitHub repositories you create.
